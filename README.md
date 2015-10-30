@@ -1,0 +1,1 @@
+# rationaljs-component-loader-core
